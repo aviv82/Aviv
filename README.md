@@ -1,11 +1,27 @@
-# Hello World
-A Place to Document Fresh Starts.
-Hi all, I am pretty new here but I think I like this place. 
-If you are reading this, I wish you a good day!
+## hi all, 
 
-## local override
+my name is *aviv.* i am 39 years ~~old~~ from **israel/canada**. 
+```html
+<h3>nice to meet you!</h3>;
+```
+```javascript
+document.write("let me tell you a bit about myself");
+```
+`i like:`
+- travelling
+  - art
+    1. learning new things
+   
+![here is a picture of a pug](https://picsum.photos/id/1025/4951/3301 "woof")
 
-all your git are belong to us!
+i am very 
+>excited
+
+| to | meet | you | all |
+| --- | --- | --- | --- |
 
 
-oy oy oy
+[check out my new homepage(WIP)](https://aviv82.github.io/Homepage/
+)
+
+ #  thank you for reading!
